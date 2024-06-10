@@ -1,0 +1,8 @@
+题目内容	
+在这个练习中，我们使用Human Activity Recognition Using Smartphones数据集。它通过对参加测试者的智能手机上安装里一个传感器而采集了参加测试者每天的日常活动（ADL）。目标是将日常活动分成六类（walking, walking upstairs, walking downstairs, sitting, standing, and laying）。
+
+下载附件Human_Activity_Recognition_Using_Smartphones_Data.csv 后，把该数据集和07-logreg_and_classification_metrics_excercise.ipynb文件存放在同一目录下。
+
+我们先读入该数据集，做一些数据分析，然后使用逻辑回归模型根据使用者的智能手机上传感器的数据来预测其活动类型。
+
+请按要求填好07-logreg_and_classification_metrics_excercise.ipynb中空缺的单元。
